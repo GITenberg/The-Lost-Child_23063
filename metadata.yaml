@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1345
     wikipedia: http://en.wikipedia.org/wiki/François_Coppée
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23063#The-Lost-Child
 gutenberg_issued: '2007-10-17'
 gutenberg_type: Text
 identifiers:
