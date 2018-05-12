@@ -1,0 +1,41 @@
+_repo: The-Lost-Child_23063
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Matthewman, J.
+    gutenberg_agent_id: '25650'
+    url: http://www.gutenberg.org/2009/agents/25650
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Coppée, François
+    aliases:
+    - François Coppée
+    - Coppée, Francis Edouard Joachim
+    - Coppee, Francois
+    birthdate: 1842
+    deathdate: 1908
+    gutenberg_agent_id: '1345'
+    url: http://www.gutenberg.org/2009/agents/1345
+    wikipedia: http://en.wikipedia.org/wiki/François_Coppée
+description: ''
+gutenberg_issued: '2007-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23063'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas stories'
+- !lcsh 'Poor -- Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PQ'
+- !lcsh 'Rich people -- Fiction'
+- !lcsh 'Fathers and sons -- Fiction'
+- !lcsh 'Paris (France) -- Fiction'
+title: The Lost Child
+url: http://www.gutenberg.org/ebooks/23063
